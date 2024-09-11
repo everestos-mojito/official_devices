@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1724651278,
-      "size": 2709853659,
-      "filehash": "e761b250bf7e26416058139cac7eea63",
-      "filename": "EverestOS-1.5-Lukla-spartan-OFFICIAL-GAPPS-0326-20240827.zip",
-      "id": "1b4cd9baccc4c7d86459f6536f485dc958fe26c26cdf0cb1f9e3034a1a8b76f6",
+      "datetime": 1725981824,
+      "size": 2719175191,
+      "filehash": "69a4002973847a828196d8988bc539ea",
+      "filename": "EverestOS-1.6-Lukla-EOL-spartan-OFFICIAL-GAPPS-1527-20240910.zip",
+      "id": "6580397f015062020c29e3e015d181fd6ca3fa9bbb7bf7b319b0dfa4ce5e7ae5",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "RYUK",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/spartan/EverestOS-1.5-Lukla-spartan-OFFICIAL-GAPPS-0326-20240827.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/spartan/EverestOS-1.6-Lukla-EOL-spartan-OFFICIAL-GAPPS-1527-20240910.zip/download"
     }
   ]
 }
