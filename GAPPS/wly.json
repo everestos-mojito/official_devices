@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1724738137,
-      "size": 3297392762,
-      "filehash": "32c9833940d71659f51b0824d32d43ce",
-      "filename": "EverestOS-1.5-Lukla-wly-OFFICIAL-GAPPS-0557-20240827.zip",
-      "id": "be6c269ea1eb1ab06e6c9d7b43c398080ff4e74f2596d4dba18def635e9a063d",
+      "datetime": 1726086836,
+      "size": 3155379176,
+      "filehash": "a5cdef42275cb98be86bdbac84270ad0",
+      "filename": "EverestOS-1.6-Lukla-EOL-wly-OFFICIAL-GAPPS-2034-20240911.zip",
+      "id": "083bd096a85e8e8c3d79f27fb5ec7220829891846381fc2c80a5e9a1971dbbce",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "Arman-ATI",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/wly/EverestOS-1.5-Lukla-wly-OFFICIAL-GAPPS-0557-20240827.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/wly/EverestOS-1.6-Lukla-EOL-wly-OFFICIAL-GAPPS-2034-20240911.zip/download"
     }
   ]
 }
