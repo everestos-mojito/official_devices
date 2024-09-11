@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1724748048,
-      "size": 3642944709,
-      "filehash": "78a311765b983a900120ae8ca9948a3f",
-      "filename": "EverestOS-1.5-Lukla-ferrarri-OFFICIAL-GAPPS-0842-20240827.zip",
-      "id": "15e90511b8c131d58df6742a12f61054b9ffe861c0a9efff8154d623adbd096d",
+      "datetime": 1726091155,
+      "size": 3606016811,
+      "filehash": "833724feaca4066b63b4fa6d7d4bc23a",
+      "filename": "EverestOS-1.6-Lukla-EOL-ferrarri-OFFICIAL-GAPPS-2146-20240911.zip",
+      "id": "33814b3ea4ca096367c4fdd6d9c7301f8639ef8f8f0439ff89dfe913ea9ed634",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "Arman-ATI",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/ferrarri/EverestOS-1.5-Lukla-ferrarri-OFFICIAL-GAPPS-0842-20240827.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/ferrarri/EverestOS-1.6-Lukla-EOL-ferrarri-OFFICIAL-GAPPS-2146-20240911.zip/download"
     }
   ]
 }
