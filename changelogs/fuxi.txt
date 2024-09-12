@@ -1,6 +1,11 @@
 # Device: xiaomi13 (xiaomi13)
 ## Device maintainer: xt0032rus
 
+EverestOS Version 1.6 (12-September-2024)
+
+- Synced with latest source changes
+- September Security patch
+
 ===== 03 July, 2024 =====
 - Synced with latest Everest Source
 - Miui Camera by default
