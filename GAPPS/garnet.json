@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1724686491,
-      "size": 2679428927,
-      "filehash": "04f382228c721dc3ff8422a73fd09c69",
-      "filename": "EverestOS-1.5-Lukla-garnet-OFFICIAL-GAPPS-0305-20240827.zip",
-      "id": "c9de56731d171706958106c39e8e7fbdbe538050955c740aaeac6d0253370903",
+      "datetime": 1726070271,
+      "size": 2689031280,
+      "filehash": "509b0ef165c54acc7783cd9bf4d81262",
+      "filename": "EverestOS-1.6-Lukla-EOL-garnet-OFFICIAL-GAPPS-0024-20240912.zip",
+      "id": "18f150ad591bbd168a45c5ea97fc5eac8227abaa2b1e0dda0c823793c6c942cf",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "rmdn.",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/garnet/EverestOS-1.5-Lukla-garnet-OFFICIAL-GAPPS-0305-20240827.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/garnet/EverestOS-1.6-Lukla-EOL-garnet-OFFICIAL-GAPPS-0024-20240912.zip/download"
     }
   ]
 }
