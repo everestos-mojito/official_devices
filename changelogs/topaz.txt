@@ -2,6 +2,15 @@ Build Type: OFFICIAL
 Device: Redmi Note 12 4G (Topaz/Tapas)
 Device maintainer: skwel
 
+# 12-September-2024
+
+- EverestOS version 1.6
+- VANILLA and GAPPS (shipped with Pixel Launcher and Lawnchair)
+- September Security Patch
+- Bump Boot Security Patch
+- Added MiuiCamera
+- Added optimizations
+
 # 27-August-2024
 
 - EverestOS version 1.5 (26-August-2024)
