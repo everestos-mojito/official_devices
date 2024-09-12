@@ -1,4 +1,12 @@
 ================
+# 12-09-2024
+================
+
+- Add touch improvements props
+- props: For smoother scrolling and better responsiveness
+- dolby: Add intelligent equalizer setting
+
+================
 # 27-08-2024
 ================
 
