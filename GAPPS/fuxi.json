@@ -2,14 +2,14 @@
   "response": [
     {
       "datetime": 1725878952,
-      "size": 3157839166,
-      "filehash": "59502d87474ad355482df009c4b7dba0",
-      "filename": "EverestOS-1.6-Lukla-EOL-fuxi-OFFICIAL-GAPPS-0525-20240911.zip",
-      "id": "695a827b884c8de82158d2a3f62c88643d4dff2dc4c59ce2bc73d82061e92d63",
+      "size": 3161846740,
+      "filehash": "28c9ed9917861ab513359967edd1e075",
+      "filename": "EverestOS-1.6-Lukla-EOL-fuxi-OFFICIAL-GAPPS-1957-20240914.zip",
+      "id": "0c6eecbf2e8d498beeb5282356aa13a1d4712c8e4c771176cdff8634811c8b32",
       "romtype": "OFFICIAL",
       "version": "1.6",
       "maintainer": "♦️xt0032rus♦️",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/fuxi/EverestOS-1.6-Lukla-EOL-fuxi-OFFICIAL-GAPPS-0525-20240911.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/fuxi/EverestOS-1.6-Lukla-EOL-fuxi-OFFICIAL-GAPPS-1957-20240914.zip/download"
     }
   ]
 }
