@@ -1,5 +1,25 @@
+=========================================
+Device : POCO F1
+Codename : beryllium
+Build Type : STABLE (Gapps)
+Maintainer : Akshat
+=========================================
+
+# EverestOS Version 1.6 (16-September-2024)
+
+- Synced with latest source
+- EOL build as of A14
+- Dropped blur support
+
 # EverestOS Version 1.5 (30-August-2024)
 
 - Initial A14 build
 - Dynamic partition build
 - MiCam and Viper4fx included
+
+======
+NOTES: 
+======
+- Dynamic partition build
+- Check flashing guide on device support group
+- Update play integrity pif.json to pass play integrity
