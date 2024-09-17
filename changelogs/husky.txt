@@ -1,4 +1,4 @@
-# EverestOS Version 1.5
+# EverestOS Version 1.6
 
 =========================================
 Device : Pixel 8 pro
@@ -6,6 +6,24 @@ Codename : Husky
 Build Type : STABLE (Gapps)
 Maintainer : Libra420T
 =========================================
+
+# EverestOS Version 1.6 EOL (17-September-2024)
+
+- September Firmware
+- latest Source Changes
+- Notification Panel
+  (Cleaner Aesthetics)
+- New Wallpaper
+- Ship Pixel Launcher as Default 
+  (Still User Choice)
+- Updated ViPER4AndroidFX
+- Updated Lawnchair
+- Updated Gapps
+- Added SystemUI Reboot
+- Fixed Wifi Calling
+  (Fully Functional while Airplane Mode is ON)
+- Fixed Battery mAh not showing via about phone card
+- Fixed Freeform
 
 
 # EverestOS Version 1.5 (28-August-2024)
