@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1725610954,
-      "size": 2464441432,
-      "filehash": "434cd15d5e55ecc402a214dcfa6ef66b",
-      "filename": "EverestOS-1.5-Lukla-redwood-OFFICIAL-GAPPS-0907-20240906.zip",
-      "id": "3ea367dbfeb7d184afadb76be34cf6c595c10291acbb7de8b1ee9762e5d989ce",
+      "datetime": 1726550308,
+      "size": 2406415864,
+      "filehash": "93f3cbb9e51afe7e07fce5740a7f897f",
+      "filename": "EverestOS-1.6-Lukla-EOL-redwood-OFFICIAL-GAPPS-0554-20240917.zip",
+      "id": "4089d21d17d36ab00a2c550a17f44cbb06d8ab429bb595aa632caeddb4a5b8f2",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "Rushi",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/redwood/EverestOS-1.5-Lukla-redwood-OFFICIAL-GAPPS-0907-20240906.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/redwood/EverestOS-1.6-Lukla-EOL-redwood-OFFICIAL-GAPPS-0554-20240917.zip/download"
     }
   ]
 }

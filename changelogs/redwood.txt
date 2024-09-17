@@ -1,5 +1,21 @@
 ### Device side changelogs
 
+EverestOS 1.5 - Lukla EOL(update 17/09/2024)
+- Upstreamed to 5.4.284
+- Switched To SHAKTIMAN Kernel
+- Vendor_dlkm partition dropped because of we didn't use it(stock is doesn't have it)
+- NFC fixed
+- dt2w fixed
+- Switched to miuicam(like is mod came)
+- Smart Pixel support added 
+- Freefrom Windows Feture
+- Add TouchGestures and KeyHandler config
+- Allow choosing NFC supported SKUs
+- Import missing camera blobs
+- Update blobs to V816.0.6.0.UMSMIXM
+- Enable Wide Color Gamut support
+- fts support dropped (maybe add soon)
+
 EverestOS 1.5 - Lukla
 - Switch To TURBO kernel
 - both panel are supported
