@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1724882914,
-      "size": 2648144072,
-      "filehash": "dee855f50b6d0f4051986fe3719d4cdd",
-      "filename": "EverestOS-1.5-Lukla-shiba-OFFICIAL-GAPPS-2246-20240830.zip",
-      "id": "a19dcc6909728a7dfa7fa8bb209f7335a68dd6e79781d938aa01be99cb528a80",
+      "datetime": 1726598902,
+      "size": 2727720416,
+      "filehash": "22499048722a9e6616439ee1fef03a08",
+      "filename": "EverestOS-1.6-Lukla-EOL-shiba-OFFICIAL-GAPPS-1853-20240917.zip",
+      "id": "3e26220f8585445bcd83f1b85c3742a2887af9bb372942f078ce94cfefe5af64",
       "romtype": "OFFICIAL",
-      "version": "1.5",
+      "version": "1.6",
       "maintainer": "Libra420T",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/shiba/EverestOS-1.5-Lukla-shiba-OFFICIAL-GAPPS-2246-20240830.zip/download"
+      "url": "https://sourceforge.net/projects/everestos-releases/files/shiba/EverestOS-1.6-Lukla-EOL-shiba-OFFICIAL-GAPPS-1853-20240917.zip/download"
     }
   ]
 }
