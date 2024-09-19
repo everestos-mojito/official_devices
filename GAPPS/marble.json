@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1720929586,
-      "size": 2602298968,
-      "filehash": "500526b7ea19863d67fbab72ca6b71a4",
-      "filename": "Everest-1.3-Tenzing-marble-OFFICIAL-GAPPS-0359-20240714.zip",
-      "id": "70565c5da039cc10a25e609c10e0ab83096486b33f4d2cf765b14830a1a57b77",
+      "datetime": 1726581694,
+      "size": 2667497111,
+      "filehash": "8049d2aeb38fa0aee9180bb03b53a76c",
+      "filename": "EverestOS-1.6-Lukla-EOL-marble-OFFICIAL-GAPPS-1405-20240917.zip",
+      "id": "132d2188934f6b5be2e1fe5fdd06fc7b061a63fbd98f0369f56d50258c1f66ba",
       "romtype": "OFFICIAL",
-      "version": "1.3",
-      "url": "https://sourceforge.net/projects/everestos-releases/files/marble/Everest-1.3-Tenzing-marble-OFFICIAL-GAPPS-0359-20240714.zip/download"
+      "version": "1.6",
+      "maintainer": "SharmagRit",
+      "url": "https://sourceforge.net/projects/everestos-releases/files/marble/EverestOS-1.6-Lukla-EOL-marble-OFFICIAL-GAPPS-1405-20240917.zip/download"
     }
   ]
 }

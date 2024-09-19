@@ -2,6 +2,11 @@
 # Device: Poco F5 (marble)
 ## Device maintainer: SharmagRit
 
+=×=×= 17th Septempber 2024 =×=×=
+* Synced with latest RisingOS v5.2.1 EOL Lyonesse sources
+* marble: Fixed screen freeze issue, thanks to Chaitanya
+* marble: Enable several configs: like Smart 5g, Smart pixels, Double tap to ambient, Volume steps, Refresh Rate Tile etc
+
 ===== 14 July, 2024 =====
 * Fixed OIS Camera
 * Fixed flickering issues at Low Brightness & AoD
