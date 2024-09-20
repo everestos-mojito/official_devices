@@ -1,6 +1,14 @@
 ### Device side changelogs
 
-EverestOS 1.5 - Lukla EOL(update 17/09/2024)
+EverestOS 1.6 - Lukla EOL-HOTFIX (update 20/09/2024)
+- Switch back to TURBO kernel 
+- for fts support 
+- blobs updated 
+- privious all things are fixed
+- GAPPS & VANILLA both build are avilable 
+- many more (enjoy it :)
+
+EverestOS 1.6 - Lukla EOL(update 17/09/2024)
 - Upstreamed to 5.4.284
 - Switched To SHAKTIMAN Kernel
 - Vendor_dlkm partition dropped because of we didn't use it(stock is doesn't have it)
