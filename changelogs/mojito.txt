@@ -1,0 +1,10 @@
+=========================================
+Device : Redmi Note 10
+Codename : mojito/sunny
+Build Type : STABLE (GAPPS)
+Maintainer : K4LCHAKRA_&_ROMGHARTI
+=========================================
+
+# EverestOS Version 1.6 (28-10-2024)
+
+- Initial official build.
